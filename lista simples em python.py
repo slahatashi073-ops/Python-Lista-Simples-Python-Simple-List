@@ -1,6 +1,4 @@
 import pprint
-
-
 lista = []
 print("O que você deseja adicionar na lista?")
 item = input()
@@ -51,4 +49,5 @@ if loop == True:
 if loop == False:
     print(lista)
     print("Obrigado por usar o programa!")
+
                                         #obrigado por ler!# #thanks for reading!#
